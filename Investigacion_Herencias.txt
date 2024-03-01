@@ -1,0 +1,12 @@
+Herencia en POO, es una forma de organizar informacion en forma de jerarquia, haciendo que vaya de los mas general hasta lo mas especifico posible. Se usa este metodo para poder tener cierta organizacion y mejor productividad en cuanto al codigo se refiere. 
+
+El metodo de herencia se ve usado en POO, programacion orientada a objetos. Funciona de tal manera que la clase hijo, hereda todas las caracteristica del padre, ademas de poseer las suyas propias. 
+
+Las herencias se pueden entender por publicas o privadas.
+
+Los tipos de herencias de pueden calificar en:
+
+1. Jerarquica: Donde varias subclasses heredan de una sola clase, el tipo de herencia mas comun.
+2. Hibrida: Es la combiancion entre las herencias ya existentes.
+3. Multiple: Se entiende como multiple cuando se hereda de mas de una clase padre.
+
